@@ -68,97 +68,93 @@ INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, 
 
 
 INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
-('소보루',         '2017-06-24', '0452 202 281', 0, null, null, null),
-('팥빵(찹쌀)',     '2017-06-24', '0452 202 281', 0, null, null, null),
-('커피번',         '2017-06-24', '0452 202 281', 0, null, null, null),
-('고로케(감자)',    '2017-06-24', '0452 202 281', 0, null, null, null),
-('고로케(당면)',    '2017-06-24', '0452 202 281', 0, null, null, null),
-('고구마앙금빵',     '2017-06-24', '0452 202 281', 0, null, null, null),
-('소보루(튀김)',    '2017-06-24', '0452 202 281', 0, null, null, null);
+('소보루',         '2017-06-24', '김도현', 2, '0452 202 281', null, null),
+('팥빵(찹쌀)',     '2017-06-24', '김도현', 2, '0452 202 281', null, null),
+('커피번',         '2017-06-24', '김도현', 3, '0452 202 281', null, null),
+('고로케(감자)',    '2017-06-24', '김도현', 2, '0452 202 281', null, null),
+('고로케(당면)',    '2017-06-24', '김도현', 2, '0452 202 281', null, null),
+('고구마앙금빵',     '2017-06-24', '김도현', 3, '0452 202 281', null, null),
+('소보루(튀김)',    '2017-06-24', '김도현', 2, '0452 202 281', null, null);
+
+
+INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
+('팥빵',          '2017-06-24', '0413 419 045_1', 1, null, null, null),
+('소보루',         '2017-06-24', '0413 419 045_1', 1, null, null, null),
+('꽈베기',         '2017-06-24', '0413 419 045_1', 1, null, null, null),
+('팥빵(찹쌀)',     '2017-06-24', '0413 419 045_1', 1, null, null, null),
+('커피번',         '2017-06-24', '0413 419 045_1', 1, null, null, null),
+('고로케(감자)',    '2017-06-24', '0413 419 045_1', 1, null, null, null),
+('고로케(당면)',    '2017-06-24', '0413 419 045_1', 1, null, null, null),
+('고구마앙금빵',     '2017-06-24', '0413 419 045_1', 1, null, null, null),
+('소보루(튀김)',    '2017-06-24', '0413 419 045_1', 1, null, null, null);
+
+
+INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
+('팥빵(찹쌀)',     '2017-06-24', '0413 419 045_2', 5, null, null, null),
+('팥빵',          '2017-06-24', '0413 419 045_2', 3, null, null, null),
+('고로케(감자)',    '2017-06-24', '0413 419 045_2', 3, null, null, null),
+('고구마앙금빵',     '2017-06-24', '0413 419 045_2', 2, null, null, null),
+
+
+
+INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
+('팥빵',          '2017-06-24', 'kun:HAM', 1, '0423 727 479', null, null),
+('소보루',         '2017-06-24', 'kun:HAM', 1, '0423 727 479', null, null),
+('꽈베기',         '2017-06-24', 'kun:HAM', 1, '0423 727 479', null, null),
+('팥빵(찹쌀)',     '2017-06-24', 'kun:HAM', 1, '0423 727 479', null, null),
+('커피번',         '2017-06-24', 'kun:HAM', 1, '0423 727 479', null, null),
+('고로케(감자)',    '2017-06-24', 'kun:HAM', 1, '0423 727 479', null, null),
+('고로케(당면)',    '2017-06-24', 'kun:HAM', 1, '0423 727 479', null, null),
+('고구마앙금빵',     '2017-06-24', 'kun:HAM', 1, '0423 727 479', null, null),
+('소보루(튀김)',    '2017-06-24', 'kun:HAM', 1, '0423 727 479', null, null);
+
+
+
+INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
+('팥빵',          '2017-06-24', 'Hyejin Park', 2, null, null, null),
+('꽈베기',         '2017-06-24', 'Hyejin Park', 6, null, null, null),
+('커피번',         '2017-06-24', 'Hyejin Park', 2, null, null, null),
+('고로케(감자)',    '2017-06-24', 'Hyejin Park', 1, null, null, null),
+('고로케(당면)',    '2017-06-24', 'Hyejin Park', 1, null, null, null),
+('소보루(튀김)',    '2017-06-24', 'Hyejin Park', 2, null, null, null);
 
 
 
 
 INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
-('팥빵',          '2017-06-24', 'XXXX', 0, null, null, null),
-('소보루',         '2017-06-24', 'XXXX', 0, null, null, null),
-('꽈베기',         '2017-06-24', 'XXXX', 0, null, null, null),
-('팥빵(찹쌀)',     '2017-06-24', 'XXXX', 0, null, null, null),
-('커피번',         '2017-06-24', 'XXXX', 0, null, null, null),
-('고로케(감자)',    '2017-06-24', 'XXXX', 0, null, null, null),
-('고로케(당면)',    '2017-06-24', 'XXXX', 0, null, null, null),
-('고구마앙금빵',     '2017-06-24', 'XXXX', 0, null, null, null),
-('소보루(튀김)',    '2017-06-24', 'XXXX', 0, null, null, null);
+('고구마앙금빵',     '2017-06-24', '김영아', 6, null, '8 Callan Ct, Mill Park VIC 3082', '배달:아무도 없으면 가라지문옆에 박스에'),
+('고로케(감자)',    '2017-06-24', '김영아', 6, null, '8 Callan Ct, Mill Park VIC 3082', '배달:아무도 없으면 가라지문옆에 박스에'),
+('소보루(튀김)',    '2017-06-24', '김영아', 4, null, '8 Callan Ct, Mill Park VIC 3082', '배달:아무도 없으면 가라지문옆에 박스에'),
+('커피번',         '2017-06-24', '김영아', 4, null, '8 Callan Ct, Mill Park VIC 3082', '배달:아무도 없으면 가라지문옆에 박스에'),
+('팥빵',          '2017-06-24', '김영아', 6, null, '8 Callan Ct, Mill Park VIC 3082', '배달:아무도 없으면 가라지문옆에 박스에');
+
+
+
+INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
+('소보루(튀김)',    '2017-06-24', '0435 941 701', 1, null, null, null),
+('고로케(당면)',    '2017-06-24', '0435 941 701', 1, null, null, null),
+('커피번',         '2017-06-24', '0435 941 701', 1, null, null, null),
+('팥빵(찹쌀)',     '2017-06-24', '0435 941 701', 1, null, null, null),
+('꽈베기',         '2017-06-24', '0435 941 701', 2, null, null, null);
 
 
 
 
 INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
-('팥빵',          '2017-06-24', 'XXXX', 0, null, null, null),
-('소보루',         '2017-06-24', 'XXXX', 0, null, null, null),
-('꽈베기',         '2017-06-24', 'XXXX', 0, null, null, null),
-('팥빵(찹쌀)',     '2017-06-24', 'XXXX', 0, null, null, null),
-('커피번',         '2017-06-24', 'XXXX', 0, null, null, null),
-('고로케(감자)',    '2017-06-24', 'XXXX', 0, null, null, null),
-('고로케(당면)',    '2017-06-24', 'XXXX', 0, null, null, null),
-('고구마앙금빵',     '2017-06-24', 'XXXX', 0, null, null, null),
-('소보루(튀김)',    '2017-06-24', 'XXXX', 0, null, null, null);
-
-
+('팥빵',          '2017-06-24', '운정언니', 4, null, null, '픽업'),
+('소보루',         '2017-06-24', '운정언니', 2, null, null, '픽업'),
+('커피번',         '2017-06-24', '운정언니', 3, null, null, '픽업'),
+('고로케(당면)',    '2017-06-24', '운정언니', 3, null, null, '픽업');
 
 
 INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
-('팥빵',          '2017-06-24', 'XXXX', 0, null, null, null),
-('소보루',         '2017-06-24', 'XXXX', 0, null, null, null),
-('꽈베기',         '2017-06-24', 'XXXX', 0, null, null, null),
-('팥빵(찹쌀)',     '2017-06-24', 'XXXX', 0, null, null, null),
-('커피번',         '2017-06-24', 'XXXX', 0, null, null, null),
-('고로케(감자)',    '2017-06-24', 'XXXX', 0, null, null, null),
-('고로케(당면)',    '2017-06-24', 'XXXX', 0, null, null, null),
-('고구마앙금빵',     '2017-06-24', 'XXXX', 0, null, null, null),
-('소보루(튀김)',    '2017-06-24', 'XXXX', 0, null, null, null);
-
-
-
-
-INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
-('팥빵',          '2017-06-24', 'XXXX', 0, null, null, null),
-('소보루',         '2017-06-24', 'XXXX', 0, null, null, null),
-('꽈베기',         '2017-06-24', 'XXXX', 0, null, null, null),
-('팥빵(찹쌀)',     '2017-06-24', 'XXXX', 0, null, null, null),
-('커피번',         '2017-06-24', 'XXXX', 0, null, null, null),
-('고로케(감자)',    '2017-06-24', 'XXXX', 0, null, null, null),
-('고로케(당면)',    '2017-06-24', 'XXXX', 0, null, null, null),
-('고구마앙금빵',     '2017-06-24', 'XXXX', 0, null, null, null),
-('소보루(튀김)',    '2017-06-24', 'XXXX', 0, null, null, null);
-
-
-
-
-INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
-('팥빵',          '2017-06-24', 'XXXX', 0, null, null, null),
-('소보루',         '2017-06-24', 'XXXX', 0, null, null, null),
-('꽈베기',         '2017-06-24', 'XXXX', 0, null, null, null),
-('팥빵(찹쌀)',     '2017-06-24', 'XXXX', 0, null, null, null),
-('커피번',         '2017-06-24', 'XXXX', 0, null, null, null),
-('고로케(감자)',    '2017-06-24', 'XXXX', 0, null, null, null),
-('고로케(당면)',    '2017-06-24', 'XXXX', 0, null, null, null),
-('고구마앙금빵',     '2017-06-24', 'XXXX', 0, null, null, null),
-('소보루(튀김)',    '2017-06-24', 'XXXX', 0, null, null, null);
-
-
-
-
-INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
-('팥빵',          '2017-06-24', 'XXXX', 0, null, null, null),
-('소보루',         '2017-06-24', 'XXXX', 0, null, null, null),
-('꽈베기',         '2017-06-24', 'XXXX', 0, null, null, null),
-('팥빵(찹쌀)',     '2017-06-24', 'XXXX', 0, null, null, null),
-('커피번',         '2017-06-24', 'XXXX', 0, null, null, null),
-('고로케(감자)',    '2017-06-24', 'XXXX', 0, null, null, null),
-('고로케(당면)',    '2017-06-24', 'XXXX', 0, null, null, null),
-('고구마앙금빵',     '2017-06-24', 'XXXX', 0, null, null, null),
-('소보루(튀김)',    '2017-06-24', 'XXXX', 0, null, null, null);
-
-
+('팥빵',          '2017-06-24', '0423 519 507', 2, null, null, null),
+('소보루',         '2017-06-24', '0423 519 507', 2, null, null, null),
+('꽈베기',         '2017-06-24', '0423 519 507', 2, null, null, null),
+('팥빵(찹쌀)',     '2017-06-24', '0423 519 507', 2, null, null, null),
+('커피번',         '2017-06-24', '0423 519 507', 2, null, null, null),
+('고로케(감자)',    '2017-06-24', '0423 519 507', 1, null, null, null),
+('고로케(당면)',    '2017-06-24', '0423 519 507', 1, null, null, null),
+('고구마앙금빵',     '2017-06-24', '0423 519 507', 1, null, null, null),
+('소보루(튀김)',    '2017-06-24', '0423 519 507', 2, null, null, null);
 
