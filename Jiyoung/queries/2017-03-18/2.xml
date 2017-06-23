@@ -1,0 +1,1230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="7" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">주문자</Data></Cell>
+			<Cell><Data ss:Type="String">제품명</Data></Cell>
+			<Cell><Data ss:Type="String">단가</Data></Cell>
+			<Cell><Data ss:Type="String">주문량</Data></Cell>
+			<Cell><Data ss:Type="String">주문소계</Data></Cell>
+			<Cell><Data ss:Type="String">총 주문금액</Data></Cell>
+			<Cell><Data ss:Type="String">비고</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">0421 446 917</Data></Cell>
+			<Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">35.00</Data></Cell>
+			<Cell><Data ss:Type="String">MS주문</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0421 446 917</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">35.00</Data></Cell>
+			<Cell><Data ss:Type="String">MS주문</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0421 446 917</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">35.00</Data></Cell>
+			<Cell><Data ss:Type="String">MS주문</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0421 446 917</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">3.00</Data></Cell>
+			<Cell><Data ss:Type="Number">35.00</Data></Cell>
+			<Cell><Data ss:Type="String">MS주문</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0421 446 917</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">20.00</Data></Cell>
+			<Cell><Data ss:Type="Number">35.00</Data></Cell>
+			<Cell><Data ss:Type="String">MS주문</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0431 843 124</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">15.00</Data></Cell>
+			<Cell><Data ss:Type="Number">37.50</Data></Cell>
+			<Cell><Data ss:Type="String">배달:SMS주문,집에 아무도 없으면 매트밑에 돈을 두고, 아이스박스에 빵을 두고 오면 됨.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">0431 843 124</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">15</Data></Cell>
+			<Cell><Data ss:Type="Number">22.50</Data></Cell>
+			<Cell><Data ss:Type="Number">37.50</Data></Cell>
+			<Cell><Data ss:Type="String">배달:SMS주문,집에 아무도 없으면 매트밑에 돈을 두고, 아이스박스에 빵을 두고 오면 됨.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">brownbear26</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">brownbear26</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">brownbear26</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">brownbear26</Data></Cell>
+			<Cell><Data ss:Type="String">소보루</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">brownbear26</Data></Cell>
+			<Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">brownbear26</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">3.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">glory</Data></Cell>
+			<Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">21.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">glory</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">21.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">glory</Data></Cell>
+			<Cell><Data ss:Type="String">소보루</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">4.50</Data></Cell>
+			<Cell><Data ss:Type="Number">21.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">glory</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">4.50</Data></Cell>
+			<Cell><Data ss:Type="Number">21.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">glory</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">21.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">goodelva1</Data></Cell>
+			<Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">35.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">goodelva1</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">35.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">goodelva1</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">35.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">goodelva1</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">35.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">goodelva1</Data></Cell>
+			<Cell><Data ss:Type="String">소보루</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">3.00</Data></Cell>
+			<Cell><Data ss:Type="Number">35.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">goodelva1</Data></Cell>
+			<Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">35.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">goodelva1</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">4.50</Data></Cell>
+			<Cell><Data ss:Type="Number">35.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">goodelva1</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">3.00</Data></Cell>
+			<Cell><Data ss:Type="Number">35.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">goodelva1</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">35.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">jin08</Data></Cell>
+			<Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">8.00</Data></Cell>
+			<Cell><Data ss:Type="Number">34.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">jin08</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">34.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">jin08</Data></Cell>
+			<Cell><Data ss:Type="String">소보루</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">34.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">jin08</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">34.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">jin08</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">12.00</Data></Cell>
+			<Cell><Data ss:Type="Number">34.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Miri</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">42.50</Data></Cell>
+			<Cell><Data ss:Type="String">카톡주문</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Miri</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">42.50</Data></Cell>
+			<Cell><Data ss:Type="String">카톡주문</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Miri</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">42.50</Data></Cell>
+			<Cell><Data ss:Type="String">카톡주문</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Miri</Data></Cell>
+			<Cell><Data ss:Type="String">소보루</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">10.50</Data></Cell>
+			<Cell><Data ss:Type="Number">42.50</Data></Cell>
+			<Cell><Data ss:Type="String">카톡주문</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Miri</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">9.00</Data></Cell>
+			<Cell><Data ss:Type="Number">42.50</Data></Cell>
+			<Cell><Data ss:Type="String">카톡주문</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Miri</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">9.00</Data></Cell>
+			<Cell><Data ss:Type="Number">42.50</Data></Cell>
+			<Cell><Data ss:Type="String">카톡주문</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">pinki</Data></Cell>
+			<Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">8.00</Data></Cell>
+			<Cell><Data ss:Type="Number">49.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">pinki</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">49.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">pinki</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">49.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">pinki</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">5.00</Data></Cell>
+			<Cell><Data ss:Type="Number">49.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">pinki</Data></Cell>
+			<Cell><Data ss:Type="String">소보루</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">49.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">pinki</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">7</Data></Cell>
+			<Cell><Data ss:Type="Number">10.50</Data></Cell>
+			<Cell><Data ss:Type="Number">49.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">pinki</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">12.00</Data></Cell>
+			<Cell><Data ss:Type="Number">49.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">sommers77</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">34.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">sommers77</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">34.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">sommers77</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">5.00</Data></Cell>
+			<Cell><Data ss:Type="Number">34.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">sommers77</Data></Cell>
+			<Cell><Data ss:Type="String">소보루</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">34.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">sommers77</Data></Cell>
+			<Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">8.00</Data></Cell>
+			<Cell><Data ss:Type="Number">34.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">sommers77</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">7.50</Data></Cell>
+			<Cell><Data ss:Type="Number">34.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">soyeon</Data></Cell>
+			<Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25.50</Data></Cell>
+			<Cell><Data ss:Type="String">픽업</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">soyeon</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25.50</Data></Cell>
+			<Cell><Data ss:Type="String">픽업</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">soyeon</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">25.50</Data></Cell>
+			<Cell><Data ss:Type="String">픽업</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">soyeon</Data></Cell>
+			<Cell><Data ss:Type="String">소보루</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">4.50</Data></Cell>
+			<Cell><Data ss:Type="Number">25.50</Data></Cell>
+			<Cell><Data ss:Type="String">픽업</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">soyeon</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">25.50</Data></Cell>
+			<Cell><Data ss:Type="String">픽업</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">soyeon</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">9</Data></Cell>
+			<Cell><Data ss:Type="Number">13.50</Data></Cell>
+			<Cell><Data ss:Type="Number">25.50</Data></Cell>
+			<Cell><Data ss:Type="String">픽업</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">tototo</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">13.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">tototo</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">13.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">tototo</Data></Cell>
+			<Cell><Data ss:Type="String">소보루</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">3.00</Data></Cell>
+			<Cell><Data ss:Type="Number">13.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">tototo</Data></Cell>
+			<Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">13.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">tototo</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">3.00</Data></Cell>
+			<Cell><Data ss:Type="Number">13.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">tototo</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">13.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">겹잎딸기</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">40.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">들들마미</Data></Cell>
+			<Cell><Data ss:Type="String">소보루</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">31.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">들들마미</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">9.00</Data></Cell>
+			<Cell><Data ss:Type="Number">31.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">들들마미</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">31.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">들들마미</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">10.00</Data></Cell>
+			<Cell><Data ss:Type="Number">31.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">멜번</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">5.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">멜번</Data></Cell>
+			<Cell><Data ss:Type="String">소보루</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">15.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">멜번</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">20.00</Data></Cell>
+			<Cell><Data ss:Type="Number">40.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">멜번아줌마</Data></Cell>
+			<Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">10.00</Data></Cell>
+			<Cell><Data ss:Type="Number">57.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">멜번아줌마</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">10.00</Data></Cell>
+			<Cell><Data ss:Type="Number">57.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">멜번아줌마</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">10.00</Data></Cell>
+			<Cell><Data ss:Type="Number">57.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">멜번아줌마</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">10.00</Data></Cell>
+			<Cell><Data ss:Type="Number">57.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">멜번아줌마</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">7.50</Data></Cell>
+			<Cell><Data ss:Type="Number">57.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">멜번아줌마</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">10.00</Data></Cell>
+			<Cell><Data ss:Type="Number">57.50</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">멜번여자</Data></Cell>
+			<Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">16.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">멜번여자</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">16.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">멜번여자</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">16.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">멜번여자</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">16.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">멜번여자</Data></Cell>
+			<Cell><Data ss:Type="String">소보루</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">3.00</Data></Cell>
+			<Cell><Data ss:Type="Number">16.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">멜번여자</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">3.00</Data></Cell>
+			<Cell><Data ss:Type="Number">16.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">멜번여자</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">16.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">무하</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">8.00</Data></Cell>
+			<Cell><Data ss:Type="Number">30.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">무하</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">5.00</Data></Cell>
+			<Cell><Data ss:Type="Number">30.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">무하</Data></Cell>
+			<Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">30.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">무하</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">9.00</Data></Cell>
+			<Cell><Data ss:Type="Number">30.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">무하</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">30.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">밍꼬맘</Data></Cell>
+			<Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">31.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">밍꼬맘</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">31.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">밍꼬맘</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">31.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">밍꼬맘</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">31.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">밍꼬맘</Data></Cell>
+			<Cell><Data ss:Type="String">소보루</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">3.00</Data></Cell>
+			<Cell><Data ss:Type="Number">31.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">밍꼬맘</Data></Cell>
+			<Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">31.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">밍꼬맘</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">3.00</Data></Cell>
+			<Cell><Data ss:Type="Number">31.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">밍꼬맘</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">3.00</Data></Cell>
+			<Cell><Data ss:Type="Number">31.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">밍꼬맘</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">31.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">시커먼스</Data></Cell>
+			<Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">10.00</Data></Cell>
+			<Cell><Data ss:Type="Number">29.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">시커먼스</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">29.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">시커먼스</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">5.00</Data></Cell>
+			<Cell><Data ss:Type="Number">29.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">시커먼스</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">8.00</Data></Cell>
+			<Cell><Data ss:Type="Number">29.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">애영</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">17.00</Data></Cell>
+			<Cell><Data ss:Type="String">배달:카톡주문</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">애영</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="Number">3.00</Data></Cell>
+			<Cell><Data ss:Type="Number">17.00</Data></Cell>
+			<Cell><Data ss:Type="String">배달:카톡주문</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">애영</Data></Cell>
+			<Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">8.00</Data></Cell>
+			<Cell><Data ss:Type="Number">17.00</Data></Cell>
+			<Cell><Data ss:Type="String">배달:카톡주문</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">언어의정원</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">20.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">언어의정원</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">20.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">언어의정원</Data></Cell>
+			<Cell><Data ss:Type="String">소보루</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">20.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">언어의정원</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">20.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">예랑맘1</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">10</Data></Cell>
+			<Cell><Data ss:Type="Number">10.00</Data></Cell>
+			<Cell><Data ss:Type="Number">16.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">예랑맘1</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">16.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">예랑맘2</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">12.00</Data></Cell>
+			<Cell><Data ss:Type="Number">24.00</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기 5개는 설탕없이.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">예랑맘2</Data></Cell>
+			<Cell><Data ss:Type="String">소보루</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">3.00</Data></Cell>
+			<Cell><Data ss:Type="Number">24.00</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기 5개는 설탕없이.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">예랑맘2</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">24.00</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기 5개는 설탕없이.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">예랑맘2</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">3.00</Data></Cell>
+			<Cell><Data ss:Type="Number">24.00</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기 5개는 설탕없이.</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">은젼동생</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">55.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">은젼동생</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">23</Data></Cell>
+			<Cell><Data ss:Type="Number">23.00</Data></Cell>
+			<Cell><Data ss:Type="Number">55.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">은젼동생</Data></Cell>
+			<Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">6</Data></Cell>
+			<Cell><Data ss:Type="Number">12.00</Data></Cell>
+			<Cell><Data ss:Type="Number">55.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">은젼동생</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">12</Data></Cell>
+			<Cell><Data ss:Type="Number">18.00</Data></Cell>
+			<Cell><Data ss:Type="Number">55.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">죽전동꽃순맘</Data></Cell>
+			<Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">8.00</Data></Cell>
+			<Cell><Data ss:Type="Number">32.00</Data></Cell>
+			<Cell><Data ss:Type="String">배달:밀팍</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">죽전동꽃순맘</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">32.00</Data></Cell>
+			<Cell><Data ss:Type="String">배달:밀팍</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">죽전동꽃순맘</Data></Cell>
+			<Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">8.00</Data></Cell>
+			<Cell><Data ss:Type="Number">32.00</Data></Cell>
+			<Cell><Data ss:Type="String">배달:밀팍</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">죽전동꽃순맘</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">32.00</Data></Cell>
+			<Cell><Data ss:Type="String">배달:밀팍</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">죽전동꽃순맘</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">32.00</Data></Cell>
+			<Cell><Data ss:Type="String">배달:밀팍</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">틸스트롱</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">21.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">틸스트롱</Data></Cell>
+			<Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">21.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">틸스트롱</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">5</Data></Cell>
+			<Cell><Data ss:Type="Number">5.00</Data></Cell>
+			<Cell><Data ss:Type="Number">21.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">틸스트롱</Data></Cell>
+			<Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">21.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">틸스트롱</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">21.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">호호호</Data></Cell>
+			<Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">4.00</Data></Cell>
+			<Cell><Data ss:Type="Number">18.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">호호호</Data></Cell>
+			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
+			<Cell><Data ss:Type="Number">1.00</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">2.00</Data></Cell>
+			<Cell><Data ss:Type="Number">18.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">호호호</Data></Cell>
+			<Cell><Data ss:Type="String">소보루</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">3.00</Data></Cell>
+			<Cell><Data ss:Type="Number">18.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">호호호</Data></Cell>
+			<Cell><Data ss:Type="String">커피번</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="Number">6.00</Data></Cell>
+			<Cell><Data ss:Type="Number">18.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">호호호</Data></Cell>
+			<Cell><Data ss:Type="String">팥빵</Data></Cell>
+			<Cell><Data ss:Type="Number">1.50</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="Number">3.00</Data></Cell>
+			<Cell><Data ss:Type="Number">18.00</Data></Cell>
+			<Cell><Data ss:Type="String"></Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

@@ -1,0 +1,175 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Microsoft Office 사용자</LastAuthor>
+  <LastPrinted>2016-10-14T21:35:29Z</LastPrinted>
+  <LastSaved>2016-10-14T21:23:11Z</LastSaved>
+  <Version>15.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <PixelsPerInch>96</PixelsPerInch>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>19440</WindowHeight>
+  <WindowWidth>33600</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>460</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="맑은 고딕" x:CharSet="129" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="맑은 고딕" x:CharSet="129" ss:Size="12" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s67">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="맑은 고딕" x:CharSet="129" ss:Size="12" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.00_ "/>
+  </Style>
+  <Style ss:ID="s68">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <NumberFormat ss:Format="0.00_ "/>
+  </Style>
+  <Style ss:ID="s69">
+   <NumberFormat ss:Format="0.00_ "/>
+  </Style>
+  <Style ss:ID="s73">
+   <Font ss:FontName="맑은 고딕" x:CharSet="129" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+   <NumberFormat ss:Format="0.00_ "/>
+  </Style>
+  <Style ss:ID="s74">
+   <Font ss:FontName="맑은 고딕" x:CharSet="129" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+   <NumberFormat ss:Format="\$#,##0.00"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table1">
+  <Table ss:ExpandedColumnCount="7" ss:ExpandedRowCount="11" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="18">
+   <Column ss:AutoFitWidth="0" ss:Width="110"/>
+   <Column ss:StyleID="s69" ss:AutoFitWidth="0"/>
+   <Column ss:Index="4" ss:StyleID="s69" ss:AutoFitWidth="0"/>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">단가</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">합계</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">43</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">86</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">53</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">106</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">114</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">114</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">66</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">99</Data></Cell>
+    <Cell ss:Index="7" ss:StyleID="s69"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">75</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">46</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">69</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">55</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">110</Data></Cell>
+   </Row>
+   <Row ss:Index="10">
+    <Cell ss:Index="4" ss:StyleID="s74" ss:Formula="=SUM(R[-8]C:R[-1]C)"><Data
+      ss:Type="Number">659</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="4" ss:StyleID="s73"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>19</ActiveRow>
+     <ActiveCol>6</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

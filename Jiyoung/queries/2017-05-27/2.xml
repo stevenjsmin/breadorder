@@ -1,0 +1,1024 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Microsoft Office User</LastAuthor>
+  <LastSaved>2017-05-25T22:32:25Z</LastSaved>
+  <Version>15.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <PixelsPerInch>96</PixelsPerInch>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>19740</WindowHeight>
+  <WindowWidth>33600</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>460</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67">
+   <Interior ss:Color="#FCF305" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table1">
+  <Table ss:ExpandedColumnCount="12" ss:ExpandedRowCount="207" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="65" ss:DefaultRowHeight="16">
+   <Column ss:AutoFitWidth="0" ss:Width="110" ss:Span="1"/>
+   <Column ss:Index="7" ss:Width="136"/>
+   <Row ss:Index="2">
+    <Cell><Data ss:Type="String">0433 793 880</Data></Cell>
+    <Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">0433 893 031</Data></Cell>
+    <Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">0433 793 880</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">0433 893 031</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">0433 793 880</Data></Cell>
+    <Cell><Data ss:Type="String">소보루</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">0433 893 031</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">0433 793 880</Data></Cell>
+    <Cell><Data ss:Type="String">커피번</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">0433 893 031</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">0433 793 880</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">0433 893 031</Data></Cell>
+    <Cell><Data ss:Type="String">소보루</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">0433 793 880</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">0433 893 031</Data></Cell>
+    <Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5" ss:Formula="=SUM(R[-6]C:R[-1]C)"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">0433 893 031</Data></Cell>
+    <Cell><Data ss:Type="String">커피번</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="7"><Data ss:Type="String">0433 893 031</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="11" ss:Formula="=SUM(R[-8]C:R[-1]C)"><Data ss:Type="Number">35</Data></Cell>
+   </Row>
+   <Row ss:Index="15">
+    <Cell><Data ss:Type="String">0439 882 070</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">0451 075 088</Data></Cell>
+    <Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">0439 882 070</Data></Cell>
+    <Cell><Data ss:Type="String">커피번</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">0451 075 088</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5" ss:Formula="=SUM(R[-2]C:R[-1]C)"><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">0451 075 088</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="7"><Data ss:Type="String">0451 075 088</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="7"><Data ss:Type="String">0451 075 088</Data></Cell>
+    <Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="7"><Data ss:Type="String">0451 075 088</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="7"><Data ss:Type="String">0451 075 088</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="11" ss:Formula="=SUM(R[-7]C:R[-1]C)"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row ss:Index="26">
+    <Cell><Data ss:Type="String">Giselle</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">Helen</Data></Cell>
+    <Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Giselle</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell><Data ss:Type="Number">30</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">60</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">Helen</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5" ss:Formula="=SUM(R[-2]C:R[-1]C)"><Data ss:Type="Number">90</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">Helen</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="7"><Data ss:Type="String">Helen</Data></Cell>
+    <Cell><Data ss:Type="String">소보루</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="7"><Data ss:Type="String">Helen</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="11" ss:Formula="=SUM(R[-5]C:R[-1]C)"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:Index="37">
+    <Cell><Data ss:Type="String">Kate kim</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">MJ</Data></Cell>
+    <Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Kate kim</Data></Cell>
+    <Cell><Data ss:Type="String">소보루</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">MJ</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Kate kim</Data></Cell>
+    <Cell><Data ss:Type="String">커피번</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">MJ</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5" ss:Formula="=SUM(R[-3]C:R[-1]C)"><Data ss:Type="Number">19</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">MJ</Data></Cell>
+    <Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="11" ss:Formula="=SUM(R[-4]C:R[-1]C)"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:Index="52">
+    <Cell><Data ss:Type="String">김문유(0421 564 960)</Data></Cell>
+    <Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">김은정(0484 342 918)</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">김문유(0421 564 960)</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">김은정(0484 342 918)</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">김문유(0421 564 960)</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">김은정(0484 342 918)</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">김문유(0421 564 960)</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">김은정(0484 342 918)</Data></Cell>
+    <Cell><Data ss:Type="String">커피번</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">김문유(0421 564 960)</Data></Cell>
+    <Cell><Data ss:Type="String">소보루</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">김은정(0484 342 918)</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">김문유(0421 564 960)</Data></Cell>
+    <Cell><Data ss:Type="String">커피번</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="11" ss:Formula="=SUM(R[-5]C:R[-1]C)"><Data ss:Type="Number">16</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">김문유(0421 564 960)</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">4.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5" ss:Formula="=SUM(R[-7]C:R[-1]C)"><Data ss:Type="Number">24.5</Data></Cell>
+   </Row>
+   <Row ss:Index="70">
+    <Cell><Data ss:Type="String">멜번그녀:썬</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">썸머(0411 174 392)</Data></Cell>
+    <Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">멜번그녀:썬</Data></Cell>
+    <Cell><Data ss:Type="String">소보루</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">4.5</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">썸머(0411 174 392)</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">멜번그녀:썬</Data></Cell>
+    <Cell><Data ss:Type="String">커피번</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">4.5</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">썸머(0411 174 392)</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">멜번그녀:썬</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">4.5</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">썸머(0411 174 392)</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">멜번그녀:썬</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">썸머(0411 174 392)</Data></Cell>
+    <Cell><Data ss:Type="String">소보루</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5" ss:Formula="=SUM(R[-5]C:R[-1]C)"><Data ss:Type="Number">22.5</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">썸머(0411 174 392)</Data></Cell>
+    <Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="7"><Data ss:Type="String">썸머(0411 174 392)</Data></Cell>
+    <Cell><Data ss:Type="String">커피번</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="7"><Data ss:Type="String">썸머(0411 174 392)</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="7"><Data ss:Type="String">썸머(0411 174 392)</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="11" ss:Formula="=SUM(R[-9]C:R[-1]C)"><Data ss:Type="Number">67</Data></Cell>
+   </Row>
+   <Row ss:Index="84">
+    <Cell><Data ss:Type="String">에이린(0421 767 742)</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:Index="12" ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">에이린(0421 767 742)</Data></Cell>
+    <Cell><Data ss:Type="String">소보루</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell ss:Index="12" ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">에이린(0421 767 742)</Data></Cell>
+    <Cell><Data ss:Type="String">커피번</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">4.5</Data></Cell>
+    <Cell ss:Index="12" ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">에이린(0421 767 742)</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="12" ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="5" ss:Formula="=SUM(R[-4]C:R[-1]C)"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:Index="12" ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s67"/>
+   </Row>
+   <Row>
+    <Cell ss:Index="12" ss:StyleID="s67"/>
+   </Row>
+   <Row ss:Index="100">
+    <Cell><Data ss:Type="String">은전동생1:Honey</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">은전동생2:Honey</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">은전동생1:Honey</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">은전동생2:Honey</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">은전동생1:Honey</Data></Cell>
+    <Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">은전동생2:Honey</Data></Cell>
+    <Cell><Data ss:Type="String">소보루</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">은전동생1:Honey</Data></Cell>
+    <Cell><Data ss:Type="String">커피번</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">은전동생2:Honey</Data></Cell>
+    <Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">은전동생1:Honey</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">은전동생2:Honey</Data></Cell>
+    <Cell><Data ss:Type="String">커피번</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">** 커피번4개는 치즈없이, 꽈베기 6개는 설탕없이</Data></Cell>
+    <Cell ss:Index="5" ss:Formula="=SUM(R[-5]C:R[-1]C)"><Data ss:Type="Number">70</Data></Cell>
+    <Cell ss:Index="11" ss:Formula="=SUM(R[-5]C:R[-1]C)"><Data ss:Type="Number">25</Data></Cell>
+   </Row>
+   <Row ss:Index="115">
+    <Cell><Data ss:Type="String">이야호호(0452 541 004)</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">이야호호(0452 541 004)</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">이야호호(0452 541 004)</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">이야호호(0452 541 004)</Data></Cell>
+    <Cell><Data ss:Type="String">소보루</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">4.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">이야호호(0452 541 004)</Data></Cell>
+    <Cell><Data ss:Type="String">커피번</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">4.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5" ss:Formula="=SUM(R[-5]C:R[-1]C)"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row ss:Index="125">
+    <Cell><Data ss:Type="String">준탱지땡1:지호네</Data></Cell>
+    <Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">준탱지땡2:지민이네</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">준탱지땡1:지호네</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">준탱지땡2:지민이네</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">준탱지땡1:지호네</Data></Cell>
+    <Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">준탱지땡2:지민이네</Data></Cell>
+    <Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">준탱지땡1:지호네</Data></Cell>
+    <Cell><Data ss:Type="String">커피번</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">준탱지땡2:지민이네</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">준탱지땡1:지호네</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="11" ss:Formula="=SUM(R[-4]C:R[-1]C)"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5" ss:Formula="=SUM(R[-5]C:R[-1]C)"><Data ss:Type="Number">35</Data></Cell>
+   </Row>
+   <Row ss:Index="134">
+    <Cell><Data ss:Type="String">준탱지땡3:크리스탈</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">준탱지땡4:현서네</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">준탱지땡3:크리스탈</Data></Cell>
+    <Cell><Data ss:Type="String">소보루</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">준탱지땡4:현서네</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">준탱지땡3:크리스탈</Data></Cell>
+    <Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">준탱지땡4:현서네</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">준탱지땡3:크리스탈</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">준탱지땡4:현서네</Data></Cell>
+    <Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5" ss:Formula="=SUM(R[-4]C:R[-1]C)"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:Index="11" ss:Formula="=SUM(R[-4]C:R[-1]C)"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row ss:Index="142">
+    <Cell><Data ss:Type="String">친절한아줌마(0430 037 620)</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">친절한아줌마(0430 037 620)</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">친절한아줌마(0430 037 620)</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">친절한아줌마(0430 037 620)</Data></Cell>
+    <Cell><Data ss:Type="String">소보루</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">22.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">친절한아줌마(0430 037 620)</Data></Cell>
+    <Cell><Data ss:Type="String">커피번</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">22.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">친절한아줌마(0430 037 620)</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5" ss:Formula="=SUM(R[-6]C:R[-1]C)"><Data ss:Type="Number">72</Data></Cell>
+   </Row>
+   <Row ss:Index="155">
+    <Cell><Data ss:Type="String">카푸치노1(0430 432 115)</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">카푸치노2(0430 432 115)</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">카푸치노1(0430 432 115)</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">카푸치노2(0430 432 115)</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">카푸치노1(0430 432 115)</Data></Cell>
+    <Cell><Data ss:Type="String">소보루</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">카푸치노2(0430 432 115)</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">카푸치노1(0430 432 115)</Data></Cell>
+    <Cell><Data ss:Type="String">커피번</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">카푸치노2(0430 432 115)</Data></Cell>
+    <Cell><Data ss:Type="String">소보루</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">카푸치노1(0430 432 115)</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">카푸치노2(0430 432 115)</Data></Cell>
+    <Cell><Data ss:Type="String">커피번</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">카푸치노1(0430 432 115)</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">카푸치노2(0430 432 115)</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:Index="5" ss:Formula="=SUM(R[-6]C:R[-1]C)"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:Index="11" ss:Formula="=SUM(R[-6]C:R[-1]C)"><Data ss:Type="Number">24</Data></Cell>
+   </Row>
+   <Row ss:Index="174">
+    <Cell><Data ss:Type="String">0422 853 388</Data></Cell>
+    <Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">하선민</Data></Cell>
+    <Cell><Data ss:Type="String">소보루</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">픽업</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">0422 853 388</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">하선민</Data></Cell>
+    <Cell><Data ss:Type="String">커피번</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">7.5</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">픽업</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">0422 853 388</Data></Cell>
+    <Cell><Data ss:Type="String">소보루</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">하선민</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="String">픽업</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">0422 853 388</Data></Cell>
+    <Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="7"><Data ss:Type="String">** 픽업</Data></Cell>
+    <Cell ss:Index="11" ss:Formula="=SUM(R[-3]C:R[-1]C)"><Data ss:Type="Number">32.5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">0422 853 388</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">0422 853 388</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">** 픽업</Data></Cell>
+    <Cell ss:Index="5" ss:Formula="=SUM(R[-6]C:R[-1]C)"><Data ss:Type="Number">35</Data></Cell>
+   </Row>
+   <Row ss:Index="188">
+    <Cell><Data ss:Type="String">Karli</Data></Cell>
+    <Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Karli</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Karli</Data></Cell>
+    <Cell><Data ss:Type="String">커피번</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Karli</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell><Data ss:Type="Number">10</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Karli</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">** 배달:지난번 못받은 10불 같이 받을것</Data></Cell>
+    <Cell ss:Index="5" ss:Formula="=SUM(R[-5]C:R[-1]C)"><Data ss:Type="Number">51</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">** 8 Stone Ct Viewbank VIC 3084</Data></Cell>
+   </Row>
+   <Row ss:Index="201">
+    <Cell><Data ss:Type="String">김영아</Data></Cell>
+    <Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">김영아</Data></Cell>
+    <Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">김영아</Data></Cell>
+    <Cell><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+    <Cell><Data ss:Type="Number">1</Data></Cell>
+    <Cell><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">김영아</Data></Cell>
+    <Cell><Data ss:Type="String">소보루</Data></Cell>
+    <Cell><Data ss:Type="Number">4</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">김영아</Data></Cell>
+    <Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">2</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">김영아</Data></Cell>
+    <Cell><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell><Data ss:Type="Number">6</Data></Cell>
+    <Cell><Data ss:Type="Number">1.5</Data></Cell>
+    <Cell><Data ss:Type="Number">9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">** 배달:밀팍</Data></Cell>
+    <Cell ss:Index="5" ss:Formula="=SUM(R[-6]C:R[-1]C)"><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+   </Print>
+   <Zoom>130</Zoom>
+   <PageLayoutZoom>130</PageLayoutZoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
+     <RangeSelection>R2C1:R208C11</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

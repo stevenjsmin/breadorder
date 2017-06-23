@@ -1,0 +1,975 @@
+<?xml version="1.0"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>Microsoft Office 사용자</LastAuthor>
+  <LastPrinted>2016-10-28T06:45:46Z</LastPrinted>
+  <LastSaved>2016-10-27T04:00:00Z</LastSaved>
+  <Version>15.0</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <PixelsPerInch>96</PixelsPerInch>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>16880</WindowHeight>
+  <WindowWidth>28160</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>460</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="맑은 고딕" x:CharSet="129" ss:Size="12" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="맑은 고딕" x:CharSet="129" ss:Size="20" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="맑은 고딕" x:CharSet="129" ss:Size="12" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="맑은 고딕" x:CharSet="129" ss:Size="12" ss:Color="#FFFFFF"/>
+   <Interior ss:Color="#000000" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s67">
+   <NumberFormat ss:Format="#,##0.0_ "/>
+  </Style>
+  <Style ss:ID="s68">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s69">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="2"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="맑은 고딕" x:CharSet="129" ss:Size="12" ss:Color="#000000"
+    ss:Bold="1"/>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Table1">
+  <Table ss:ExpandedColumnCount="12" ss:ExpandedRowCount="110" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="18">
+   <Column ss:AutoFitWidth="0" ss:Width="110" ss:Span="1"/>
+   <Column ss:Index="4" ss:StyleID="s62" ss:AutoFitWidth="0"/>
+   <Row ss:AutoFitHeight="0" ss:Height="28">
+    <Cell ss:MergeAcross="8" ss:StyleID="s64"><Data ss:Type="DateTime">2016-10-29T00:00:00.000</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+    <Cell ss:Index="12" ss:StyleID="s67"/>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Awhim</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">Claire Jung</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Awhim</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">Claire Jung</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Awhim</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">Claire Jung</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루(크림)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Awhim</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">Claire Jung</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Awhim</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s70" ss:Formula="=SUM(R[-4]C:R[-1]C)"><Data
+      ss:Type="Number">35</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Awhim</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:Index="4" ss:StyleID="s70" ss:Formula="=SUM(R[-6]C:R[-1]C)"><Data
+      ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row ss:Index="12" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">dieter</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">happysung</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">dieter</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">happysung</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">dieter</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">happysung</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">dieter</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">happysung</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">dieter</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">happysung</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">dieter</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">happysung</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:Index="4" ss:StyleID="s70" ss:Formula="=SUM(R[-6]C:R[-1]C)"><Data
+      ss:Type="Number">35</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s70" ss:Formula="=SUM(R[-6]C:R[-1]C)"><Data
+      ss:Type="Number">35</Data></Cell>
+   </Row>
+   <Row ss:Index="21" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">My Blossoms</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">sdu41777</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">My Blossoms</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">sdu41777</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">My Blossoms</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">sdu41777</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:Index="4" ss:StyleID="s70" ss:Formula="=SUM(R[-3]C:R[-1]C)"><Data
+      ss:Type="Number">12</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">sdu41777</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">sdu41777</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">sdu41777</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">sdu41777</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:Index="9" ss:StyleID="s70" ss:Formula="=SUM(R[-7]C:R[-1]C)"><Data
+      ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row ss:Index="31" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">soaptree</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">soso87</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">soaptree</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">soso87</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">soaptree</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">7.5</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">soso87</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">7.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">soaptree</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">soso87</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">soaptree</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">7.5</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">soso87</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">soaptree</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s70" ss:Formula="=SUM(R[-5]C:R[-1]C)"><Data
+      ss:Type="Number">32</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:Index="4" ss:StyleID="s70" ss:Formula="=SUM(R[-6]C:R[-1]C)"><Data
+      ss:Type="Number">65</Data></Cell>
+   </Row>
+   <Row ss:Index="40" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">구하구하</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">귤</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">구하구하</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">귤</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">구하구하</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">귤</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">구하구하</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">귤</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">구하구하</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s70" ss:Formula="=SUM(R[-4]C:R[-1]C)"><Data
+      ss:Type="Number">18</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">구하구하</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:Index="4" ss:StyleID="s70" ss:Formula="=SUM(R[-6]C:R[-1]C)"><Data
+      ss:Type="Number">29</Data></Cell>
+   </Row>
+   <Row ss:Index="49" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">도톨</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">바두기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">도톨</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">바두기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">도톨</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">바두기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">도톨</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">바두기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">도톨</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">바두기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">도톨</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">바두기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:Index="4" ss:StyleID="s70" ss:Formula="=SUM(R[-6]C:R[-1]C)"><Data
+      ss:Type="Number">24</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">바두기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:Index="9" ss:StyleID="s70" ss:Formula="=SUM(R[-7]C:R[-1]C)"><Data
+      ss:Type="Number">40.5</Data></Cell>
+   </Row>
+   <Row ss:Index="59" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">뽀롱</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">아로아</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">뽀롱</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">아로아</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">뽀롱</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">아로아</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">뽀롱</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">아로아</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:Index="4" ss:StyleID="s70" ss:Formula="=SUM(R[-4]C:R[-1]C)"><Data
+      ss:Type="Number">18</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">아로아</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">아로아</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:Index="9" ss:StyleID="s70" ss:Formula="=SUM(R[-6]C:R[-1]C)"><Data
+      ss:Type="Number">47</Data></Cell>
+   </Row>
+   <Row ss:Index="68" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">액션루시</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">에밀리</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">액션루시</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">에밀리</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">액션루시</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">에밀리</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">액션루시</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">에밀리</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">액션루시</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">에밀리</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:Index="4" ss:StyleID="s70" ss:Formula="=SUM(R[-5]C:R[-1]C)"><Data
+      ss:Type="Number">16</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">에밀리</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">에밀리</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:Index="9" ss:StyleID="s70" ss:Formula="=SUM(R[-7]C:R[-1]C)"><Data
+      ss:Type="Number">37</Data></Cell>
+   </Row>
+   <Row ss:Index="78" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">염동이</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">이쁜맘</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">염동이</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">이쁜맘</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">염동이</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">이쁜맘</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">7.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">염동이</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">이쁜맘</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:Index="4" ss:StyleID="s70" ss:Formula="=SUM(R[-4]C:R[-1]C)"><Data
+      ss:Type="Number">21</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">이쁜맘</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:Index="9" ss:StyleID="s70" ss:Formula="=SUM(R[-5]C:R[-1]C)"><Data
+      ss:Type="Number">23.5</Data></Cell>
+   </Row>
+   <Row ss:Index="86" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">이슬겅쥬</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">주릿</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">이슬겅쥬</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">주릿</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">이슬겅쥬</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">주릿</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">이슬겅쥬</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">주릿</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">이슬겅쥬</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">주릿</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">이슬겅쥬</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">주릿</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:Index="4" ss:StyleID="s70" ss:Formula="=SUM(R[-6]C:R[-1]C)"><Data
+      ss:Type="Number">36</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">주릿</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:Index="9" ss:StyleID="s70" ss:Formula="=SUM(R[-7]C:R[-1]C)"><Data
+      ss:Type="Number">23</Data></Cell>
+   </Row>
+   <Row ss:Index="96" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">친절한아줌마</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">콩띠</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">친절한아줌마</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">콩띠</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">친절한아줌마</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">콩띠</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">친절한아줌마</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">콩띠</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">친절한아줌마</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">커피번</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:Index="6" ss:StyleID="s68"><Data ss:Type="String">콩띠</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:Index="4" ss:StyleID="s70" ss:Formula="=SUM(R[-5]C:R[-1]C)"><Data
+      ss:Type="Number">22</Data></Cell>
+    <Cell ss:Index="9" ss:StyleID="s70" ss:Formula="=SUM(R[-5]C:R[-1]C)"><Data
+      ss:Type="Number">29.5</Data></Cell>
+   </Row>
+   <Row ss:Index="104" ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문자</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">제품명</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">주문량</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">합계</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">피노키오</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(감자)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">피노키오</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">고로케(당면)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">피노키오</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">꽈베기</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">피노키오</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">소보루</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">피노키오</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="19">
+    <Cell ss:Index="4" ss:StyleID="s70" ss:Formula="=SUM(R[-5]C:R[-1]C)"><Data
+      ss:Type="Number">20</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <FitToPage/>
+   <Print>
+    <FitHeight>0</FitHeight>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <Scale>66</Scale>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <PageLayoutZoom>0</PageLayoutZoom>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>16</ActiveRow>
+     <ActiveCol>14</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+   <x:Print>    </x:Print>
+  </WorksheetOptions>
+  <PageBreaks xmlns="urn:schemas-microsoft-com:office:excel">
+   <RowBreaks>
+    <RowBreak>
+     <Row>57</Row>
+    </RowBreak>
+   </RowBreaks>
+  </PageBreaks>
+ </Worksheet>
+</Workbook>

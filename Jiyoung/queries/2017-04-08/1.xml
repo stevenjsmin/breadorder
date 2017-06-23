@@ -18,56 +18,56 @@ xmlns:html="http://www.w3.org/TR/REC-html40">
 		<Row>
 			<Cell><Data ss:Type="String">고구마앙금빵</Data></Cell>
 			<Cell><Data ss:Type="Number">2.00</Data></Cell>
-			<Cell><Data ss:Type="Number">31</Data></Cell>
-			<Cell><Data ss:Type="Number">62.00</Data></Cell>
+			<Cell><Data ss:Type="Number">20</Data></Cell>
+			<Cell><Data ss:Type="Number">40.00</Data></Cell>
 		</Row>
 		<Row>
 			<Cell><Data ss:Type="String">고로케(감자)</Data></Cell>
 			<Cell><Data ss:Type="Number">2.00</Data></Cell>
-			<Cell><Data ss:Type="Number">30</Data></Cell>
-			<Cell><Data ss:Type="Number">60.00</Data></Cell>
+			<Cell><Data ss:Type="Number">41</Data></Cell>
+			<Cell><Data ss:Type="Number">82.00</Data></Cell>
 		</Row>
 		<Row>
 			<Cell><Data ss:Type="String">고로케(당면)</Data></Cell>
 			<Cell><Data ss:Type="Number">2.00</Data></Cell>
-			<Cell><Data ss:Type="Number">12</Data></Cell>
-			<Cell><Data ss:Type="Number">24.00</Data></Cell>
+			<Cell><Data ss:Type="Number">39</Data></Cell>
+			<Cell><Data ss:Type="Number">78.00</Data></Cell>
 		</Row>
 		<Row>
 			<Cell><Data ss:Type="String">꽈베기</Data></Cell>
 			<Cell><Data ss:Type="Number">1.00</Data></Cell>
-			<Cell><Data ss:Type="Number">26</Data></Cell>
-			<Cell><Data ss:Type="Number">26.00</Data></Cell>
+			<Cell><Data ss:Type="Number">103</Data></Cell>
+			<Cell><Data ss:Type="Number">103.00</Data></Cell>
 		</Row>
 		<Row>
 			<Cell><Data ss:Type="String">소보루</Data></Cell>
 			<Cell><Data ss:Type="Number">1.50</Data></Cell>
-			<Cell><Data ss:Type="Number">30</Data></Cell>
-			<Cell><Data ss:Type="Number">45.00</Data></Cell>
+			<Cell><Data ss:Type="Number">27</Data></Cell>
+			<Cell><Data ss:Type="Number">40.50</Data></Cell>
 		</Row>
 		<Row>
 			<Cell><Data ss:Type="String">소보루(튀김)</Data></Cell>
 			<Cell><Data ss:Type="Number">2.00</Data></Cell>
-			<Cell><Data ss:Type="Number">22</Data></Cell>
-			<Cell><Data ss:Type="Number">44.00</Data></Cell>
+			<Cell><Data ss:Type="Number">41</Data></Cell>
+			<Cell><Data ss:Type="Number">82.00</Data></Cell>
 		</Row>
 		<Row>
 			<Cell><Data ss:Type="String">커피번</Data></Cell>
 			<Cell><Data ss:Type="Number">1.50</Data></Cell>
-			<Cell><Data ss:Type="Number">32</Data></Cell>
-			<Cell><Data ss:Type="Number">48.00</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+			<Cell><Data ss:Type="Number">75.00</Data></Cell>
 		</Row>
 		<Row>
 			<Cell><Data ss:Type="String">팥빵</Data></Cell>
 			<Cell><Data ss:Type="Number">1.50</Data></Cell>
-			<Cell><Data ss:Type="Number">33</Data></Cell>
-			<Cell><Data ss:Type="Number">49.50</Data></Cell>
+			<Cell><Data ss:Type="Number">35</Data></Cell>
+			<Cell><Data ss:Type="Number">52.50</Data></Cell>
 		</Row>
 		<Row>
 			<Cell><Data ss:Type="String">팥빵(찹쌀)</Data></Cell>
 			<Cell><Data ss:Type="Number">2.00</Data></Cell>
-			<Cell><Data ss:Type="Number">18</Data></Cell>
-			<Cell><Data ss:Type="Number">36.00</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+			<Cell><Data ss:Type="Number">126.00</Data></Cell>
 		</Row>	</Table>
 </Worksheet>
 </Workbook>
