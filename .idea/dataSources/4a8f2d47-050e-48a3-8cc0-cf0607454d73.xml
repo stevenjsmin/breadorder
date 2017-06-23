@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataSource name="JIYOUNG@melfood">
-  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.0">
+  <database-model serializer="dbm" rdbms="MYSQL" format-version="4.2">
     <root id="1"/>
     <schema id="2" parent="1" name="breadorder">
       <Current>1</Current>
@@ -43,6 +43,7 @@
       <DataType>varchar(200)|0</DataType>
     </column>
     <key id="13" parent="4" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
       <ColNames>product_name
 order_date
 orderer_name</ColNames>
@@ -53,8 +54,8 @@ orderer_name</ColNames>
       <RefSchemaName>breadorder</RefSchemaName>
       <RefTableName>product</RefTableName>
       <RefColNames>product_name</RefColNames>
-      <OnUpdate>update</OnUpdate>
-      <OnDelete>delete</OnDelete>
+      <OnUpdate>cascade</OnUpdate>
+      <OnDelete>cascade</OnDelete>
     </foreign-key>
     <column id="15" parent="5" name="product_name">
       <Position>1</Position>
@@ -67,6 +68,7 @@ orderer_name</ColNames>
       <NotNull>1</NotNull>
     </column>
     <key id="17" parent="5" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
       <ColNames>product_name</ColNames>
       <Primary>1</Primary>
     </key>

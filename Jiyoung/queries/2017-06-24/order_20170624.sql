@@ -12,7 +12,7 @@ INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, 
 ('팥빵',          '2017-06-24', '...1', 2, null, null, null),
 ('소보루',         '2017-06-24', '...1', 2, null, null, null),
 ('팥빵(찹쌀)',     '2017-06-24', '...1', 2, null, null, null),
-('커피번',         '2017-06-24', '...1', 2, null, null, null),
+('커피번',         '2017-06-24', '...1', 2, null, null, null);
 
 INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
 ('팥빵',          '2017-06-24', '...2', 2, null, null, null),
@@ -29,7 +29,7 @@ INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, 
 ('팥빵',          '2017-06-24', '0410 081 176', 5, null, null, '외국인'),
 ('고로케(감자)',    '2017-06-24', '0410 081 176', 5, null, null, '외국인'),
 ('소보루',         '2017-06-24', '0410 081 176', 5, null, null, '외국인'),
-('커피번',         '2017-06-24', '0410 081 176', 5, null, null,'외국인')),
+('커피번',         '2017-06-24', '0410 081 176', 5, null, null,'외국인'),
 ('고구마앙금빵',     '2017-06-24', '0410 081 176', 5, null, null, '외국인');
 
 
@@ -93,7 +93,7 @@ INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, 
 ('팥빵(찹쌀)',     '2017-06-24', '0413 419 045_2', 5, null, null, null),
 ('팥빵',          '2017-06-24', '0413 419 045_2', 3, null, null, null),
 ('고로케(감자)',    '2017-06-24', '0413 419 045_2', 3, null, null, null),
-('고구마앙금빵',     '2017-06-24', '0413 419 045_2', 2, null, null, null),
+('고구마앙금빵',     '2017-06-24', '0413 419 045_2', 2, null, null, null);
 
 
 
@@ -157,4 +157,7 @@ INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, 
 ('고로케(당면)',    '2017-06-24', '0423 519 507', 1, null, null, null),
 ('고구마앙금빵',     '2017-06-24', '0423 519 507', 1, null, null, null),
 ('소보루(튀김)',    '2017-06-24', '0423 519 507', 2, null, null, null);
+
+
+-- delete from order_detail where order_date = '2017-06-24';
 
