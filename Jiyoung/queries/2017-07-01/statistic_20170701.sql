@@ -9,7 +9,7 @@ SELECT a.product_name '제품명', a.unit_price '단가', `b`.`Total Order` '주
 			FROM
 				order_detail
 			WHERE
-				order_date = '2017-06-24'
+				order_date = '2017-07-01'
 			GROUP BY product_name
 			ORDER BY 'Product Name') b ON b.product_name = a.product_name
    WHERE `b`.`Total Order` IS NOT NULL
@@ -38,8 +38,8 @@ SELECT  CASE
 			SELECT  a.orderer_name '주문자',
 					SUM(((SELECT b.unit_price FROM product b WHERE b.product_name = a.product_name)*a.order_amount)) 'TotalPrice'
 			  FROM order_detail a
-			 WHERE order_date = '2017-06-24'
+			 WHERE order_date = '2017-07-01'
 			 GROUP BY orderer_name
        ) b ON b.`주문자` = a.orderer_name
- WHERE order_date = '2017-06-24'
+ WHERE order_date = '2017-07-01'
 ORDER BY orderer_name ASC, product_name ASC;
