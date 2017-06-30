@@ -220,8 +220,6 @@ INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, 
   ('고구마앙금빵',     '2017-07-01', '0413 233 639', 2, null, null, '클래이튼');
 
 
-
-
 INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
   ('팥빵',          '2017-07-01', 'mihyang', 2, null, null, '글랜'),
   ('소보루',         '2017-07-01', 'mihyang', 2, null, null, '글랜'),
@@ -229,4 +227,16 @@ INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, 
   ('고로케(당면)',    '2017-07-01', 'mihyang', 2, null, null, '글랜'),
   ('고구마앙금빵',     '2017-07-01', 'mihyang', 2, null, null, '글랜'),
   ('소보루(튀김)',    '2017-07-01', 'mihyang', 2, null, null, '글랜');
+
+
+INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
+  ('팥빵',          '2017-07-01', 'soon lee lee', 4, null, null, '글랜'),
+  ('소보루',         '2017-07-01', 'soon lee lee', 4, null, null, '글랜'),
+  ('꽈베기',         '2017-07-01', 'soon lee lee', 2, null, null, '글랜'),
+  ('팥빵(찹쌀)',     '2017-07-01', 'soon lee lee', 2, null, null, '글랜'),
+  ('커피번',         '2017-07-01', 'soon lee lee', 2, null, null, '글랜'),
+  ('고로케(감자)',    '2017-07-01', 'soon lee lee', 2, null, null, '글랜'),
+  ('고로케(당면)',    '2017-07-01', 'soon lee lee', 2, null, null, '글랜'),
+  ('고구마앙금빵',     '2017-07-01', 'soon lee lee', 4, null, null, '글랜');
+
 
