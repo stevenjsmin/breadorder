@@ -11,10 +11,10 @@ INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, 
   ('고로케(당면)',    '2017-07-29', '조엔', 1, null, '돈카스터', '배달');
 
 
-
 INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
   ('팥빵(찹쌀)',     '2017-07-29', 'Yunam(Yui)', 15, null, null, '시티'),
-  ('고로케(당면)',    '2017-07-29', 'Yunam(Yui)', 15, null, null, '시티');
+  ('고로케(감자)',    '2017-07-29', 'Yunam(Yui)', 7, null, null, '시티'),
+  ('고로케(당면)',    '2017-07-29', 'Yunam(Yui)', 8, null, null, '시티');
 
 
 INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
@@ -204,14 +204,14 @@ INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, 
   ('고로케(감자)',    '2017-07-29', '0403 554 171(Hailey)', 1, null, null, '씨티:세파톤사는사람');
 
 
-
-INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
-  ('팥빵(찹쌀)',     '2017-07-29', '0431 843 124', 2, null, null, '박스힐'),
-  ('커피번',         '2017-07-29', '0431 843 124', 2, null, null, '박스힐'),
-  ('고로케(감자)',    '2017-07-29', '0431 843 124', 2, null, null, '박스힐'),
-  ('고로케(당면)',    '2017-07-29', '0431 843 124', 2, null, null, '박스힐'),
-  ('고구마앙금빵',     '2017-07-29', '0431 843 124', 2, null, null, '박스힐'),
-  ('소보루(튀김)',    '2017-07-29', '0431 843 124', 2, null, null, '박스힐');
+-- 주문취소
+# INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
+#   ('팥빵(찹쌀)',     '2017-07-29', '0431 843 124', 2, null, null, '박스힐'),
+#   ('커피번',         '2017-07-29', '0431 843 124', 2, null, null, '박스힐'),
+#   ('고로케(감자)',    '2017-07-29', '0431 843 124', 2, null, null, '박스힐'),
+#   ('고로케(당면)',    '2017-07-29', '0431 843 124', 2, null, null, '박스힐'),
+#   ('고구마앙금빵',     '2017-07-29', '0431 843 124', 2, null, null, '박스힐'),
+#   ('소보루(튀김)',    '2017-07-29', '0431 843 124', 2, null, null, '박스힐');
 
 
 INSERT INTO order_detail (product_name, order_date, orderer_name, order_amount, orderer_contact_number, orderer_address, order_comment) VALUES
