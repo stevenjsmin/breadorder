@@ -1,0 +1,31 @@
+command="KST=\$(aws sts assume-role --role-arn arn:aws:iam::648515672437:role/ESGProvisioningRole --role-session-name Provision --query '[Credentials.AccessKeyId,Credentials.SecretAccessKey,Credentials.SessionToken]' --output text) && "
+command=command + "unset AWS_ACCESS_KEY_ID AWS_SECRET_ACCESS_KEY AWS_SECURITY_TOKEN && "
+command=command + "export AWS_ACCESS_KEY_ID=\$(echo \$KST|awk '{print \$1}') && export AWS_SECRET_ACCESS_KEY=\$(echo \$KST|awk '{print \$2}') && export AWS_SECURITY_TOKEN=\$(echo \$KST|awk '{print \$3}') && "
+command=command + "aws rds describe-db-instances --region ap-southeast-2  --output text"
+
+
+aws sts assume-role --role-arn arn:aws:iam::648515672437:role/ESGProvisioningRole --role-session-name Provision --query '[Credentials.AccessKeyId,Credentials.SecretAccessKey,Credentials.SessionToken]' --output text
+
+ASIAJHKNWJEXR6YJCAFA	
+4Ktaz5JyAtf3rE3U9sbn4rXArrmb/zUakAdrQBeR	
+FQoDYXdzED8aDEae3xVSwfC1riSXwiLtASiEfZQUCIQn2VBjtTKvc2kHpUxStFa8vlEoGTcXL3q1f69g5hvYmR43o6IDNH96CETum9R1iMfV60Z908kM9/BDkeecnAMxxpKOTdXxtlgfjr4d0f84PKCM7AvSYwYtHSZcORfknFKO7qNRSPgM2M0I/+BzeumlTkiNFAcqVP71RlasEHUHWCup3Ayf5TQwG7STod7yw/B0fNSI7xDdmF606twrbmTlwr7pFLRp2r6gsPUYv2EXMDZ1uQLI3iwk5wKmPLWANgEk5BDl9aU+Lxuw7yV8JqNR9mkMIUoBxU/E/Lcw+xASs+K8HZgR2Cjn8d7QBQ==
+
+
+
+
+[ec2-user@customer temp]$ aws sts assume-role --role-arn arn:aws:iam::648515672437:role/ESGProvisioningRole --role-session-name Provision
+{
+    "AssumedRoleUser": {
+        "AssumedRoleId": "AROAIDGPKHRNPZEWHTC4K:Provision",
+        "Arn": "arn:aws:sts::648515672437:assumed-role/ESGProvisioningRole/Provision"
+    },
+    "Credentials": {
+        "SecretAccessKey": "YqbDEUlbvjFaEmU1mI7r5smy/Fv8L7V8yOpXSfJ6",
+        "SessionToken": "FQoDYXdzEEAaDCrJhvCUilhsvDPWtiLtAZXUZeddynZjdPlVQvpbNSuj/GktaHi1PDQ7B2QJZxUDtHcBhgeAqZsPdfwIzlXdpDHIU+2JF3v02p/Zs7FXovPbI/9T67ueW946aVDi5CV+SXzWc0nuYBKN/XpwCJ2oGd36nPf+Tbe24jkXvRMx6e8sJPHYY00ZOcJDOe430Qqg52v7Y1GAlevIZQdn9o9vpoPbPtdVJS7Wg/q5KvUZAXxzxuAoLdjtfza1+QXfnwBhZf4LU/grLDWfvKxXOVl8MeDG3ZtVOtiCmr5QVuIzhlbhkVmdcDw7l4K7gnEKkk0uI12A+kRt4HzXhcW/fijx+N7QBQ==",
+        "Expiration": "2017-11-24T07:30:09Z",
+        "AccessKeyId": "ASIAIHC3DWPYYEJCJPLA"
+    }
+}
+[ec2-user@customer temp]$
+
+
